@@ -1,0 +1,23 @@
+LAB 5
+
+Names:
+
+	Saba Ramadan - snramada
+	Somya Lalwani - slalwani
+
+How to run:
+
+	make lab5
+
+	./lab5 <input file> <output file> BACKING_STORE.bin 
+
+	
+	We tested like this with the addresses.txt file
+
+		./lab5 addresses.txt out.txt BACKING_STORE.bin	
+	
+	and then did 
+	
+		diff correct.txt out.txt 
+	
+	to make sure it was the correct output

@@ -1,0 +1,12 @@
+testing:
+
+make random
+ #makes randome input file
+
+make lab3
+ #makes the lab
+ if you want the time outputed into a file do 
+	 ./lab3 > time.txt
+ else
+	 ./lab3
+

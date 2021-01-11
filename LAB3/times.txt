@@ -1,0 +1,2 @@
+Elapsed Time for Two Thread: 0.031926 
+Elapsed Time for One Thread: 0.057219 

@@ -1,0 +1,8 @@
+Saba Ramadan
+Somya Lalwani
+
+Usernames:
+ snramada
+ slalwani
+
+This lab had a lot of edge cases and tiny details that caused us a lot of seg faults during the coding process. The start and end variables rreally affected memory space and we had to be very careful with that.
